@@ -31,7 +31,7 @@ const ListContacts = () => {
   return (ready ? (
     <Container className="py-3">
       <Row className="justify-content-center">
-        <Col md={7}>
+        <Col md={10}>
           <Col className="text-center">
             <h2>List Contacts</h2>
           </Col>
